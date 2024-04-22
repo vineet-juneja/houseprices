@@ -1,12 +1,11 @@
-
-Flask==2.0.0 
-gunicorn==19.9.0 
+Flask==2.0.0
+gunicorn==20.1.0  # Updated to the latest version
 itsdangerous>=2.0
 Jinja2>=3.0
 MarkupSafe>=2.0
-Werkzeug==2.0.2 
-numpy>=1.9.2 
-scipy>=0.15.1 
-scikit-learn>=0.18 
-matplotlib>=1.4.3 
+Werkzeug>=2.0.2   # Updated to include version 2.x or higher
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn>=0.18
+matplotlib>=1.4.3
 pandas>=0.19
