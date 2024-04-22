@@ -4,7 +4,7 @@ from sklearn import linear_model
 import pickle
 
 df = pd.read_csv(
-    '/Users/mithunkumar/Desktop/HomePrices/newhousing.csv')
+    'newhousing.csv')
 
 #df.bedrooms = df.bedrooms.fillna(df.bedrooms.median())
 
