@@ -1,4 +1,4 @@
-Flask==2.0.0
+Flask==1.1.4
 gunicorn==20.1.0  # Updated to the latest version
 itsdangerous>=2.0
 Jinja2>=3.0
